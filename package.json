@@ -1,0 +1,12 @@
+{
+  "name": "solana-drain-accs",
+  "version": "1.0.0",
+  "description": "Solana script to drain provided account, all nfts, tokens and SOL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
